@@ -36,5 +36,26 @@
 - It does this by interpreting data it receives from its I/O peripherals using its central processor.
 # Case study 2:REFRIGERATOR
 
- 
-![PH@hash](https://user-images.githubusercontent.com/55775183/154841538-6f447d06-b2ec-48ca-80b4-181d63f4af8a.png)
+![cellhashu](https://user-images.githubusercontent.com/55775183/154841839-a8de830c-b840-4218-ac90-0280bdf9e981.png)
+# Receiver
+- It is a storage vessel designed to hold excess refrigerant which is not in circulation. Refrigeration systems exposed to varying heat loads, or systems utilizing a condenser flooding valve to maintain a minimum head pressure during low ambient temperatures will need a receiver to store excess refrigerant.
+# Display
+- It is used display food stuffs that require temperature control to retain freshness.
+# Keypad
+- This is used to take the input of refrigerator temperature or child lock the system.
+# Air Temperature Sensor
+- It senses the temperature inside the refrigerator and sends information to the electronic control.
+# Moisture Sensor
+- It measures the ambient humidity and uses that measurement to heat the external surface of the refrigerator only when it is required to prevent condensation from forming.
+# Door Open sensor
+- As soon as the door is opened it will start emittting a quiet beep every 10 seconds. It is quiet but adequate as a gentle reminder while you fiddle with the stuff in the freezer. 
+- At 60 second, it will give a short loud alarm.
+# Water/Ice Dispensor
+- Placing the dispenser within the fridge prevents water spills on the refrigerator surface.
+# Compressor
+- Compressor is to compress low-pressure refrigerant vapour to high-pressure vapour.
+# FAN
+- It pulls air across the evaporator coil, cooling it, and then pushes the air through the freezer and refrigerator.
+# Microcontroller
+- A microcontroller is embedded inside of a system to control a singular function in a device.
+- It does this by interpreting data it receives from its I/O peripherals using its central processor.

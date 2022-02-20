@@ -8,18 +8,18 @@
 - They are generally easy to read, even under direct sunlight. 
 # SPK
 - The Smartphone Production Kit enables speakers to pre-record keynote presentations or contribute and interact live to online events through NOMOBO's remote control room (MCR).
-# CAMERA
+# Camera
 - Every lens in a  camera is coupled with a sensor. The sensor records the light coming in from the lens in digital format, just like any other digital camera. Like lenses, the sensors in a smartphone camera are tiny. 
 - This is another reason why smartphone cameras don't have as shallow a depth of field.
 # MIC
 - Cell phones use tiny electret condenser or MEMS microphones. These mics require very little power to function, which is easily supplied by the cell phone battery.
-# CRYSTAL OSCILLATOR
+# Crystal Oscillator
 - A crystal oscillator is an electronic oscillator circuit that uses a piezoelectric resonator, a crystal, as its frequency-determining element. 
 - Crystal is the common term used in electronics for the frequency-determining component, a wafer of quartz crystal or ceramic with electrodes connected to it.
-# FLASH
+# Flash
 - A button on a smart phone that takes the place of pressing and quickly letting go of the switch hook.
 - It is used for various functions, including calling the attendant, call waiting, call transfer, conferencing and placing a line on hold.
-# TRANSCEIVER
+# Transceiver
 - A transceiver is a combination tranceiver in a single package.
 - In wireless communication devices, like smartphones and cordless telephones, the transceiver is built into the mobile device.
 # WLAN
@@ -31,7 +31,10 @@
 - Subscriber Identity Module (SIM) card is . SIM cards link a certain account to a certain phone.
 - They tell the phone network company which account is joined up to which person's phone. Phone network companies usually call customers “subscribers”.
 - These towers allow us to make phone calls.
-# MICROCONTROLLER
+# Microcontroller
 - A microcontroller is embedded inside of a system to control a singular function in a device.
 - It does this by interpreting data it receives from its I/O peripherals using its central processor.
+# Case study 2:REFRIGERATOR
+
  
+![PH@hash](https://user-images.githubusercontent.com/55775183/154841538-6f447d06-b2ec-48ca-80b4-181d63f4af8a.png)

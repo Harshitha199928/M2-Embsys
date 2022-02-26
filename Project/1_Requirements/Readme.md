@@ -1,5 +1,5 @@
 # 1 About the Smart Parking System
-# 1.1 Description
+# 1.1 Abstract
 - This system help in organizing the parking lot and helps the driver to reach their parking spots easily as they known which space is vacant. The parking space can be detected using an Infrared sensor that connects to the ESP12-E module that was programmed through Arduino IDE. Users can access parking space information using a smart phone via an application. The system can work with the purpose of the research appropriately. 
 # 1.2 Identifying features
 -	Identification of free parking spots and providing that information to users on the road.

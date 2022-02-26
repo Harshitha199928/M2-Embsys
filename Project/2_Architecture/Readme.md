@@ -16,7 +16,7 @@ Microcontroller is used to convert the position signal from the image processing
 An Arduino is a single-board microcontroller and a software suite for programming. It is designed for an Atmel AVR processor and features on-board I/O support. Arduino Mega microcontroller board is based on the ATmega1280. It has 54 digital input/output pins (of which 14 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal Fig. 2-3 Torque curve of (260 oz.in) stepper and (240 oz.in) servo. oscillator, a USB connection, a power jack, an ICSP header, and a reset button.
  It contains everything needed to support the microcontroller
 # 3.5 SUBSYSTEM & OTHERS
--	Servo Motor Unit:
+- Servo Motor Unit:
   A servo motor is an electrical device which can push or rotate an object with great precision. If you want to rotate and object at some specific angles or distance, then you use servo motor. 
   It is just made up of simple motor which run through servo mechanism. If motor is used is DC powered then it is called DC servo motor, and if it is AC powered motor then it is called AC servo motor.
 # 4 Architecture
@@ -27,8 +27,9 @@ An Arduino is a single-board microcontroller and a software suite for programmin
 
   ![image](https://user-images.githubusercontent.com/55775183/155833142-a6b07fe2-10f7-42de-be4c-e4f8c4bced56.png)
 #	4.2 Structural Diagram
-–	4.2.1 High Level UML Use Case Structural Diagram
-![image](https://user-images.githubusercontent.com/55775183/155833166-0208bf3d-baa7-4ce8-8f78-b29e5c1c2b52.png)
+- 4.2.1 High Level UML Use Case Structural Diagram
+![Smart-Parking-use-case](https://user-images.githubusercontent.com/55775183/155836033-62aa8a8b-4d6f-4628-a5db-e94eede4d69d.png)
+
 - 4.2.2 Low Level UML Use Case Structural Diagram
 ![image](https://user-images.githubusercontent.com/55775183/155833237-fb006a80-c4a4-4157-88fe-171a996db840.png)
 

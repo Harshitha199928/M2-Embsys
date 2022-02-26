@@ -23,3 +23,28 @@ People who need to order parking lot
 
 # HOW
 Login and check the vaccancy
+# Swot Analysis
+![swotp](https://user-images.githubusercontent.com/55775183/155834654-0080abb5-79b4-4edc-a43a-4fcd247e055c.png)
+# High Level Requirements
+| ID | High Level Requirements |
+|---------- | --------------- |
+| HL1 | System should control vaccancy of parking lot |
+| HL2 | There should be interface |
+| HL3 | Motorspeed is controlled |
+| HL4 | System should detect the number of vehicles and vacancy |
+
+# Low Level Requirements
+| ID | Low Level Requirements |
+|---------- | --------------- |
+| HL1 | Based on the requirement of user vaccancy should be known |
+| HL2 | Based on the no of vehicle vaccancy can be determined |
+| HL3 | If the vechile is present the light should be on |
+| HL4 | Number of vechile present displayed on screen |
+
+# Applications
+- Drivers find a free parking space faster, which reduces congestion and various other negative externalities.
+- The smart parking system with guidance to a free parking space can improve the traffic situation in cities.
+- Providing better control for consumers, businesses, and law enforcement representatives
+
+
+

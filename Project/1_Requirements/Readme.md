@@ -41,7 +41,7 @@ Login and check the vaccancy
 | HL3 | If the vechile is present the light should be on |
 | HL4 | Number of vechile present displayed on screen |
 
-# Applications
+# Best Method followed
 - Drivers find a free parking space faster, which reduces congestion and various other negative externalities.
 - The smart parking system with guidance to a free parking space can improve the traffic situation in cities.
 - Providing better control for consumers, businesses, and law enforcement representatives

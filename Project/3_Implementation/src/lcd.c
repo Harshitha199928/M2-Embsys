@@ -1,11 +1,11 @@
 #ifndef __AVR_ATmega328__
-  #define __AVR_ATmega328__
-   #endif
+#define __AVR_ATmega328__
+#endif
 #include <avr/io.h>
 #include "lcd.h"
 #define _A1_h_
 #include <util/delay.h>
-void LCD_CMD( unsigned char command )
+void Lcd_cmd( unsigned char command )
 {
 	PORT_B = (PORT_B & 0x0F) | (command & 0xF0); // Taking Upper nibble only
 	PORT_B &= ~ (1<<LCD_RS); // Making LCD_RS=0
@@ -22,7 +22,7 @@ void LCD_CMD( unsigned char command )
 	_delay_ms(50);
 }
 
-void LCD_CHAR_WISE( unsigned char ch )
+void Lcd_charwise( unsigned char ch )
 {
 	PORT_B = (PORT_B & 0x0F) | (ch & 0xF0); /* sending upper nibble */
 	PORT_B |= (1<<LCD_RS);		/* LCD_RS=1, ch reg. */
@@ -39,31 +39,31 @@ void LCD_CHAR_WISE( unsigned char ch )
 	_delay_ms(50);
 }
 
-void LCD_INITIALIZATION(void)
+void Lcd_ini(void)
 {
 	LCD_DIRECTION = 0xFF; // LCD port as output
 	_delay_ms(50);
 
-	LCD_CMD(0x02);	// 4 bit LCD
-	LCD_CMD(0x28);  // 5x7 Matrix(2 line)
-	LCD_CMD(0x0c);  // Display On cursor Off
-	LCD_CMD(0x06);  // Increment cursor
-	LCD_CMD(0x01);  // LCD Clear
+	Lcd_cmd(0x02);	// 4 bit LCD
+	Lcd_cmd(0x28);  // 5x7 Matrix(2 line)
+	Lcd_cmd(0x0c);  // Display On cursor Off
+	Lcd_cmd(0x06);  // Increment cursor
+	Lcd_cmd(0x01);  // LCD Clear
 	_delay_ms(5);
 }
-void LCD_DISPLAY (char *temperature_value)
+void Lcd_dis (char *temperature_value)
 {
 	int Index;
 	for(Index=0;temperature_value[Index]!=0;Index++)
 	{
-		LCD_CHAR_WISE(temperature_value[Index]);
+		Lcd_charwise(temperature_value[Index]);
 	}
 }
-void CLEAR_LCD()
+void Clear_lcd()
 {
-	LCD_CMD (0x01);	// LCD Clear
+	Lcd_cmd (0x01);	// LCD Clear
 	_delay_ms(50);
-	LCD_CMD (0x80);	// cursor back to start position
+	Lcd_cmd (0x80);	// cursor back to start position
 }
 void  InitADC()
 {

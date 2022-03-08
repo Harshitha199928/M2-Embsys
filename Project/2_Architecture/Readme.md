@@ -1,4 +1,4 @@
-# 1 Block Diagram and Blocks explination
+# 1 Block Diagram and Blocks explanation
 # 1.1 BLOCK DIAGRAM
 ![m2block](https://user-images.githubusercontent.com/55775183/157248196-b968ee57-8072-48c6-a705-77782aab8a01.png)
 # 1.2 Microcontroller(ATmega328)
@@ -35,14 +35,14 @@ Electrons in the semiconductor recombine with electron holes, releasing energy i
 
 A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
 In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
-# Other
+# 1.5 Other
 - Voltage Source
 A voltage source is a two-terminal device which can maintain a fixed voltage. An ideal voltage source can maintain the fixed voltage independent of the load resistance or the output current.
 
+# 2 Architecture
 
 
-
-# Behaviour Diagram
+# 2.1  Behaviour Diagram
 # High Level flowchart
 - High level flow chart Behaviour Diagram
 

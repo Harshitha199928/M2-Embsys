@@ -36,22 +36,23 @@ Electrons in the semiconductor recombine with electron holes, releasing energy i
 A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
 In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
 # 1.5 Other
+
 - Voltage Source
-A voltage source is a two-terminal device which can maintain a fixed voltage. An ideal voltage source can maintain the fixed voltage independent of the load resistance or the output current.
+
+   A voltage source is a two-terminal device which can maintain a fixed voltage. An ideal voltage source can maintain the fixed voltage independent of the load resistance or      the output current.
 
 # 2 Architecture
 
 
-# 2.1  Behaviour Diagram
-# High Level flowchart
+
+# 2.1 High Level flowchart
 - High level flow chart Behaviour Diagram
 
 ![fhm2](https://user-images.githubusercontent.com/55775183/157248308-3d04470d-60ea-4223-b450-74e21bdb21b5.png)
 
-# Lowlevel flowchart
 
 
-# Structural Diagram
+# 2.2 Structural Diagram
 
 
 

@@ -1,4 +1,4 @@
-1 HIGH LEVEL TEST PLAN
+1 . HIGH LEVEL TEST PLAN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 | Test ID | Description | Exp I/P | Exp O/P | Actual Output | Passed or Not |
@@ -9,7 +9,7 @@
 | HLT04 | Examine if the LED glows when the switch is Off | Switch2 Off | No LED Glows | No LED Glows | Passed |
 | HLT05 | Examine if the Switch1 works when the Sensor is On and LED glows| Sensor On | Correct Output | Correct Output | Passed | 
 
-2 LOW LEVEL TEST PLAN
+2 . LOW LEVEL TEST PLAN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Test ID | Description | Exp I/P | Exp O/P | Actual Output | Passed or Not |
 |---------|-------------|---------|---------|---------------|---------------| 

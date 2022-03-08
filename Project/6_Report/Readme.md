@@ -10,7 +10,7 @@
 # 1.3 State of art
 - This project makes use of Potentiometer assumed as gas sensors,switch 2 as lambda sensors for sensing oxygen.The LCD diplays the percentage of CO2 and O2 present in the gas. 
 -  By combining all these components a final system  is made called as S.A.M.S. As the technology is increasing rapidly these kind of system are very useful in our daily          lives.
-# 1.4 4Ws
+# 1.4 5Ws & 1H
 ![Inked5W1H Method_LI](https://user-images.githubusercontent.com/55775183/157224474-67137cf7-8d15-47e7-88d2-9ed95d3a6a04.jpg) 
 
 # 1.5 Swot Analysis
@@ -87,6 +87,9 @@ In electronic circuits, resistors are used to reduce current flow, adjust signal
 
 
 # 2.2 Structural Diagram
+
+![loem2](https://user-images.githubusercontent.com/55775183/157318059-81d92515-a40a-496e-9982-fe5ccbad70ec.png)
+
 
 
 1 . HIGH LEVEL TEST PLAN

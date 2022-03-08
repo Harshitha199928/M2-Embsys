@@ -1,6 +1,6 @@
 #ifndef __AVR_ATmega328__
-  #define __AVR_ATmega328__
-   #endif
+#define __AVR_ATmega328__
+#endif
 
 #include <avr/io.h>
 #include<util/delay.h>

@@ -55,4 +55,4 @@ In electronic circuits, resistors are used to reduce current flow, adjust signal
 # 2.2 Structural Diagram
 
 
-
+![loem2](https://user-images.githubusercontent.com/55775183/157318244-ef31947f-d1b2-4e82-9bf2-d0cbbae926ac.png)

@@ -1,4 +1,6 @@
-name: Unit Testing
+
+   
+name: Unit Testing - Unity
 
 on:
   push:
@@ -14,4 +16,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make build_test
-      run: make build_test  -C Project/3_Implementation
+      run: make /home/runner/work/M2-Embsys/M2-Embsys/3_Implimentation

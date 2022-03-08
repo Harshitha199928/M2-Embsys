@@ -1,5 +1,7 @@
 # M2_Embeddedsystem
-
+| Build quality | Static Check | Unity test | Linux Build |
+| ------------- | ------------ |  ---------- | ----------- |
+|               |              | 
 [![Unit Test](https://github.com/Harshitha199928/M2-Embsys/actions/workflows/Unity.yml/badge.svg)](https://github.com/Harshitha199928/M2-Embsys/actions/workflows/Unity.yml)
 
 

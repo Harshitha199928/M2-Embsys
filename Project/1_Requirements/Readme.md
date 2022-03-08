@@ -1,9 +1,9 @@
-# 1 About the Smart Parking System
+# 1 About the  Smart Airquality Monitoring System
 # 1.1 Abstract
-- This system help in organizing the parking lot and helps the driver to reach their parking spots easily as they known which space is vacant. The parking space can be detected using an Infrared sensor that connects to the ESP12-E module that was programmed through Arduino IDE. Users can access parking space information using a smart phone via an application. The system can work with the purpose of the research appropriately. 
+- Smart  monitoring is the project which will be helpful in preventing water from wasting due to overflow and water shortage in the tank. This will help in industries where everything is automated and where water is used as a main element for production and manufacturing.
 # 1.2 Identifying features
 -	Identification of free parking spots and providing that information to users on the road.
--	By sensors improved enforcement methods to ensure there are no significantly overstaying vehicles.
+-	By sensors improved enforcement methods to ensure there are no significantly overstaying vehi
 -	On-street and off-street parking characteristics were analyzed considering the parking statistics
 -	It gives an aggregate measure of how effectively the parking space is utilized.
 # 1.3 State of art

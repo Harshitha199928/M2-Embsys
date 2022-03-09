@@ -19,7 +19,7 @@
  
 
  
- | FOLDER	| DESCRIPTION |
+ | FOLDERS NAME	| DESCRIPTION |
  | ------ | ----------- |
  | Case Study | 2 Case studies |
  | Project  | Updated all information and files about project  |
